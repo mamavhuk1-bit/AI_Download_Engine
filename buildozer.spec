@@ -18,5 +18,5 @@ android.accept_sdk_license = True
 android.allow_backup = True
 
 [buildozer]
-log_level = 2
+log_level = 1
 warn_on_root = 0
